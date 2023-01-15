@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "468931597542",
+    "project_id": "chattingapp-f042c",
+    "storage_bucket": "chattingapp-f042c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468931597542:android:a7fb0542a57ae66fb65727",
+        "android_client_info": {
+          "package_name": "com.PrathameshsChatApp.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468931597542-rlupjdevf3rijjmvcb53oqcbgc6cum62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_dOB8j5ZVLsgC6M4kJ6aasOgXX2wRh2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468931597542-rlupjdevf3rijjmvcb53oqcbgc6cum62.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
